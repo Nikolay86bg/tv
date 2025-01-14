@@ -18,6 +18,10 @@ http://185.23.80.28:8080/REN/index.m3u8?token=test
 https://salam-mskm9-2.rutube.ru/dive/river-5-515.rutube.ru/bnN3sIuvJ15whE2fYoXBgg/stream/genetta-333.m9.rutube.ru/i830u2zO39AqDyw6i6YxoQ/1737445879/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда HD
 http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ
+https://online-video.rbc.ru/spb/3/chunklist.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РБК
+https://online-video.rbc.ru/spb/3/chunklist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Красная Линия
@@ -32,13 +36,13 @@ http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
 http://dmi3y-tv.ru/hls/CH_TVOETVHD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
 https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ.
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО.
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ.
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ.
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино и сериалы HD (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
