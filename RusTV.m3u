@@ -10,8 +10,10 @@ http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 https://salam-mskm9-6.rutube.ru/dive/river-3-312.rutube.ru/LGXEI_9diBhOJKep0rYJDQ/stream/genetta-521.ost.rutube.ru/bfwWprso-ZLHp2qlyHEbWQ/1737445179/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ Мир
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-2k_v5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ 
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
 https://a.pokaz.me/gJBImsy4BSi_qgPI4F-S1w/543/1736859710/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ.
+http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
 https://salam-mskm9-2.rutube.ru/dive/river-5-515.rutube.ru/bnN3sIuvJ15whE2fYoXBgg/stream/genetta-333.m9.rutube.ru/i830u2zO39AqDyw6i6YxoQ/1737445879/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда HD
@@ -42,6 +44,14 @@ http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
 http://dmi3y-tv.ru/hls/CH_TVOETVHD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
 https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ.
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО.
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ.
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ.
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ
