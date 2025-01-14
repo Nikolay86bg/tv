@@ -2,14 +2,46 @@
 http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ HD
-http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+3)
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ HD
+http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ 
+https://salam-mskm9-6.rutube.ru/dive/river-3-312.rutube.ru/LGXEI_9diBhOJKep0rYJDQ/stream/genetta-521.ost.rutube.ru/bfwWprso-ZLHp2qlyHEbWQ/1737445179/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ Мир
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-2k_v5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ 
+https://a.pokaz.me/gJBImsy4BSi_qgPI4F-S1w/543/1736859710/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+https://salam-mskm9-2.rutube.ru/dive/river-5-515.rutube.ru/bnN3sIuvJ15whE2fYoXBgg/stream/genetta-333.m9.rutube.ru/i830u2zO39AqDyw6i6YxoQ/1737445879/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда HD
 http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ 4
+https://a.pokaz.me/MyfSvW1TSDiALerVHA-i9w/105/1736861067/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
+https://a.pokaz.me/otIxMxO_RpWXEiEGeKtfnQ/591/1736861017/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Красная Линия
+https://a.pokaz.me/F3PysGSBe9UnqaKV8Mpwng/239/1736859986/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый Канал
+https://a.pokaz.me/3usn-QomZ7ld5HIfd24lCg/524/1736860082/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",2x2
+https://a.pokaz.me/5ueS1q8NQvURi0S31tJVhA/153/1736861130/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ЧЕ!
+https://a.pokaz.me/0GtRbdSzG3amRqJylsMLaQ/526/1736861187/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю
+https://a.pokaz.me/wKWtPL74JxcoK7N1X5v25A/107/1736861329/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",TLC
+https://a.pokaz.me/i1vEPpOwMUplaD7Dp3E_Ug/229/1736861390/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТАС
+https://spas.mediacdn.ru/cdn/spas/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",8 канал
+http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Твое ТВ HD
+http://dmi3y-tv.ru/hls/CH_TVOETVHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
+https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ
@@ -18,6 +50,8 @@ http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ.
+https://a.pokaz.me/VrQybNHp9FD0WLwdQxHjpw/508/1736860705/index.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино и сериалы HD (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино 1 International
@@ -26,11 +60,43 @@ http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 http://dmi3y-tv.ru/hls/CH_FOX.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",FOX Life
 http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",8 канал
-http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Твое ТВ HD
-http://dmi3y-tv.ru/hls/CH_TVOETVHD.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом Кино
+https://a.pokaz.me/xMkr0XEcLm4bhOGgHlr-Ug/186/1736860539/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Руский Илюзион
+https://a.pokaz.me/n3tifncT6tMzqvM9iOpSIg/131/1736860642/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Илюзион
+https://a.pokaz.me/I-GyhF240kYstN5NWo1Tow/130/1736860777/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Hollywood HD
+https://a.pokaz.me/70RILRkcpG5VdNuaVQRZoA/507/1736860829/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Cinema
+https://a.pokaz.me/8eMYpd9GYgtyeSvbHzu70A/104/1736860880/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",1Filmax
+https://a.pokaz.me/GvC5Ga3KCaRgK-REPPX3uw/141/1736860942/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic
 http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHIC.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic WILD
 http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History
+https://a.pokaz.me/eU9gmAL4EgdmyT7Hq6m-CA/224/1736860210/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery
+https://a.pokaz.me/BhNnhr2IGnniccVsbebM6Q/520/1736860267/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Galaxy
+https://a.pokaz.me/FTKPemgmODFoENfV7N2R3w/205/1736860315/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",История
+https://a.pokaz.me/iFkDFQ4jEGtvpieW5utDkg/212/1736860365/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viju Explore
+https://a.pokaz.me/_fA1eGPuuVbFzJLayTGOlA/109/1736860410/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Карусель
+https://streaming.televizor-24-tochka.ru/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Nick
+https://a.pokaz.me/ZPNPFYT3n-hRPfgem3P2Fg/155/1736863218/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Cartoon Network
+https://stream01.vnet.am/Kinosemya/mono.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия
+https://flussonic.salomtv.uz/Multilandiya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Мульт
+https://tvcdnpotok.com/wA4uORCTWBuMbXuuQ9VRbw/206/1736863647/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Уникум
+https://tvcdnpotok.com/YNwu8mx_AJN4h7fH3mrEWQ/102/1736863686/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце 
+https://tvcdnpotok.com/JijbenDJpUwbxnUlvPfIPg/154/1736863828/index.m3u8
