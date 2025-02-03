@@ -62,3 +62,9 @@ https://msk2.peers.tv/streaming/tiji/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI
 https://nsk9.peers.tv/streaming/lyova/16/g2500/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzY5NTM1MDMsImlhdCI6MTczNjg2NzEwMywiY2lkIjo4MSwidWlkIjo4ODMzOTQ3NTgsInJlZyI6ZmFsc2UsImlwIjoxNDc1MDg5NDQ4fQ.xx5t_Gq4UCRlC56Vkh1s28KppF_mt23u9lBo2DH1BbI
 #EXTINF:-1 group-title="Спорт",Яко
 http://618545651815256526.ofdp1112.xyz:80/play/te817470/4r4VxsCg4h/256526.ts?checkedby:alliptvlinks.com 
+#EXTINF:-1 group-title="Спорт",Яко2
+https://cdn13.stgledai.org/diemasport2/index.m3u8?token=0d20e3ef09b2f88b4dbce9407eee4eb0b7de1d4f-0d8094195cef448cf43244ed638d16a0-1738612123-1738601323
+#EXTINF:-1 group-title="Спорт",Яко3
+https://cdn13.stgledai.org/diemasport2/tracks-v3a1/mono.m3u8?token=0d20e3ef09b2f88b4dbce9407eee4eb0b7de1d4f-0d8094195cef448cf43244ed638d16a0-1738612123-1738601323
+#EXTINF:-1 group-title="Спорт",Яко4
+https://windnew.iosplayer.ru/wind/premium466/mono.m3u8?token=none
