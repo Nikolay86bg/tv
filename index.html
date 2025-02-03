@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Merged M3U Content</title>
+</head>
+<body>
+    <h1>Merged M3U Content</h1>
+    <pre id="merged-content"></pre>
+
+    <script>
+        async function fetchM3U(url) {
+            const response = await fetch(url);
+            if (response.ok) {
+                return response.text();
+            } else {
+                throw new Error(`Failed to fetch ${url}`);
+            }
+        }
+
+        async function loadMergedContent() {
+            const urls = [
+                'https://raw.githubusercontent.com/Nikolay86bg/tv/main/RusTV.m3u',
+                'https://raw.githubusercontent.com/rosendonchev/linkove/main/video_stream.m3u'
+            ];
+
+            try {
+                const contentPromises = urls.map(fetchM3U);
+                const contents = await Promise.all(contentPromises);
+                document.getElementById('merged-content').textContent = contents.join('\n');
+            } catch (error) {
+                console.error('Error loading M3U content:', error);
+            }
+        }
+
+        loadMergedContent();
+    </script>
+</body>
+</html>
