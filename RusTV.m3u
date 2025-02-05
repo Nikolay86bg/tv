@@ -36,7 +36,6 @@ https://streaming.televizor-24-tochka.ru/live/232-req_offset_28000000-req_window
 https://flussonic.salomtv.uz/Multilandiya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Мульт
 https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-
 #EXTINF:-1 group-title="Кинозал",НТВ ПРАВО
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозал",НТВ СЕРИАЛ
@@ -47,77 +46,9 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 group-title="Кинозал",Кино 1 International
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
-#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Кинозал",.black (EDTV)
-http://185.50.148.2:7703/Sony_Turbo/index.m3u8
-#EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="Кинозал",.sci-fi (EDTV)
-http://130.193.73.10:8937/play/a02q
-#EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Кинозал",Amedia 1 (EDTV)
-http://stream01.vnet.am/Channel_128/mono.m3u8
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="Кинозал",Amedia 2 (EDTV)
-http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Кинозал",Amedia Hit (HD)
-http://stream01.vnet.am/Nauka/mono.m3u8
-#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Кинозал",Amedia Premium (HD)
-http://stream01.vnet.am/AmediaPremium/mono.m3u8
-#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema.png" group-title="Кинозал",Cinema (EDTV)
-http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-title="Кинозал",FlixSnip (EDTV)
-http://130.193.73.10:8937/play/a02r
-#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="https://iptvx.one/picons/filmbox-ru.png" group-title="Кинозал",Filmbox (EDTV)
-http://130.193.73.10:8937/play/a03s
-#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="https://iptvx.one/picons/filmbox-arthouse.png" group-title="Кинозал",Filmbox Arthouse (EDTV)
-http://130.193.73.10:8937/play/a03t
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Кинозал",FX (EDTV)
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Кинозал",FX Life (EDTV)
 http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
-#EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="Кинозал",HollywooD (EDTV)
-http://109.200.130.123:7537/play/a02g
-#EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Кинозал",HollywooD (HD)
-http://130.193.73.10:8937/play/a02k
-#EXTINF:-1 tvg-id="kinoliving" tvg-logo="https://iptvx.one/picons/kinoliving.png" group-title="Кинозал",KinoLiving (EDTV)
-http://109.200.130.123:7537/play/a02k
-#EXTINF:-1 tvg-id="plan-b" tvg-logo="https://iptvx.one/picons/plan-b.png" group-title="Кинозал",Plan B (HD)
-http://live.admuspeh.my/8947/index.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="scream" tvg-logo="https://iptvx.one/picons/scream.png" group-title="Кинозал",Scream (EDTV)
-http://185.23.80.28:8080/Scream/index.m3u8?token=test
-#EXTINF:-1 tvg-id="suspense" tvg-logo="https://iptvx.one/picons/suspense.png" group-title="Кинозал",Suspense (HD)
-http://live.admuspeh.my/8971/index.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png" group-title="Кинозал",Start World (EDTV)
-http://95.156.76.230:33001/udp/230.4.34.66:1234
-#EXTINF:-1 tvg-id="trashtv" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="Кинозал",Trash (HD)
-http://185.23.80.28:8080/TRASH/index.m3u8?token=test
-#EXTINF:-1tvg-id="vip-comedy-cee" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="Кинозал",Viasat Kino Comedy (HD ready)
-http://213.226.137.140:81/tl/l1243/mpegts
-#EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="Кинозал",VHS-ка (HD)
-http://live.admuspeh.my/8962/index.m3u8?token=test
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Кинозал",Viju TV1000 (EDTV)
-http://185.50.148.2:7703/TV1000/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Кинозал",Viju TV1000 Action (EDTV)
-http://185.50.148.2:7703/TV1000Action/index.m3u8
-#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Кинозал",Viju+ premiere (HD ready)
-http://213.226.137.140:81/tl/l319/mpegts
-#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Кинозал",Viju+ premiere (HD)
-http://130.193.73.10:8937/play/a03g
-#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кинозал",Еврокино (EDTV)
-http://185.50.148.2:7709/Evrokino/index.m3u8
-#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="Кинозал",Иллюзион+ (EDTV)
-http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
-#EXTINF:-1 tvg-id="kamedi" tvg-logo="https://iptvx.one/picons/kamedi.png" group-title="Кинозал",Камеди (EDTV)
-http://185.23.80.28:8080/Camedi/index.m3u8?token=tva.in.ua
-#EXTINF:-1 tvg-id="kino-bez-granic" tvg-logo="https://iptvx.one/picons/kino-bez-granic.png" group-title="Кинозал",Кино без границ (EDTV)
-http://185.50.148.2:7703/Detskiy/index.m3u8
-#EXTINF:-1 tvg-id="kinosat" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Кинозал",Киноман (EDTV)
-http://185.23.80.28:8080/KinoSat/index.m3u8?token=test
-#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кинозал",Кино ТВ (EDTV)
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Кинозал",Любимое кино (EDTV)
-http://130.193.73.10:8937/play/a037
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кинозал",НСТ (EDTV)
-http://stream01.vnet.am/Channel_125/mono.m3u8
-#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Кинозал",Ретро (EDTV)
-http://194.158.218.123:8880/Retrotv/index.m3u8
-#EXTINF:-1 tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="Кинозал",Сапфир (EDTV)
-http://109.200.130.123:7537/play/a028
 #EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://iptvx.one/picons/khit.png" group-title="Кинозал",Хит (HD)
 http://185.23.80.28:8080/Xit/index.m3u8?token=test
