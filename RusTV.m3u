@@ -22,8 +22,18 @@ http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa3177775684--tvc-res--vd9221_480p_2--tracks-v1a1--mono.m3u8?hls_proxy_host=22b5db40ced763465289cd8236e019fb
 #EXTINF:-1 group-title="ЭФИРНЫЕ",РБК
 https://online-video.rbc.ru/spb/3/chunklist.m3u8
-#EXTINF:-1 tvg-name="ТНТ Ⓢ" tvg-logo="https://i.imgur.com/1WqIPOB.png" tvg-id="TNT.ru" group-title="Russia",ТНТ Ⓢ
-http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NTUzNDU1MiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0OTI5NzUyLCJzZXNzaW9uX2lkIjoiMmJkMDlhZmFiZjkxMWMzMGU0NWQ2ZDZjOGRjNWIyMTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.5Bbe9d-2az1QkGdVp1Velj3eIyZUZZ5hhFl87KBoLAA
+
 #EXTINF:-1 group-title="ЭФИРНЫЕ",СТАС
 https://spas.mediacdn.ru/cdn/spas/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",8 канал
