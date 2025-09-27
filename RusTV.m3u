@@ -23,12 +23,8 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa317
 #EXTINF:-1 group-title="ЭФИРНЫЕ",РБК
 https://online-video.rbc.ru/spb/3/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-name=""tvg-id="TNT.ru"tvg-logo="https://i.imgur.com/T4A6rEI.png"group-title="Entertainment":http-referrer="":http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ТНТ (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s19/index.m3u8
-
-
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
+https://s.tivix.co/aSOIDrDP31yG7qjo_zpikA/547/1759018421/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",СТАС
 https://spas.mediacdn.ru/cdn/spas/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",8 канал
