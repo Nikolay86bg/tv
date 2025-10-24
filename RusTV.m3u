@@ -25,7 +25,13 @@ https://online-video.rbc.ru/spb/3/chunklist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ HD
 https://frv2.sysnet.top/video/3q-UyMhkIxkQib_sH2X2DA/11/playlist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
-https://s.tivix.co/aSOIDrDP31yG7qjo_zpikA/547/1759018421/index.m3u8
+https://s.domatv.net/1YUiER2U6r7HbR0tQWxyKA/547/1761304565/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ.
+https://s.tivix.co/1-vjWtMFrquiN6J7wc4aqg/547/1761304805/index.m3u8
+#EXTINF:-1 group-title="OK.ru" tvg-logo="https://example.com/logo.png", ТНТ..
+#EXTVLCOPT:http-referrer=https://ok.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://ok.ru/videoembed/9344376708726
 #EXTINF:-1 group-title="ЭФИРНЫЕ",СТАС
 https://spas.mediacdn.ru/cdn/spas/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",8 канал
