@@ -1,9 +1,5 @@
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+3)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
@@ -14,55 +10,19 @@ http://s08.wsbof.com:8090/s/bcf8042b/ntv.m3u8
 http://tv.ttk.mx:9003
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ Мир
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-2k_v5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ.
-http://185.23.80.28:8080/REN/index.m3u8?token=test
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда HD
-http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa3177775684--tvc-res--vd9221_480p_2--tracks-v1a1--mono.m3u8?hls_proxy_host=22b5db40ced763465289cd8236e019fb
 #EXTINF:-1 group-title="ЭФИРНЫЕ",РБК
 https://online-video.rbc.ru/spb/3/chunklist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ HD
 https://frv2.sysnet.top/video/3q-UyMhkIxkQib_sH2X2DA/11/playlist.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
-https://s.domatv.net/1YUiER2U6r7HbR0tQWxyKA/547/1761304565/index.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ.
-https://s.tivix.co/1-vjWtMFrquiN6J7wc4aqg/547/1761304805/index.m3u8
-#EXTINF:-1 group-title="OK.ru" tvg-logo="https://example.com/logo.png", ТНТ..
-#EXTVLCOPT:http-referrer=https://ok.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://ok.ru/videoembed/9344376708726
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТАС
-https://spas.mediacdn.ru/cdn/spas/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",8 канал
-http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Твое ТВ HD
-http://dmi3y-tv.ru/hls/CH_TVOETVHD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
 https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHIC.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic WILD
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Карусель
 https://streaming.televizor-24-tochka.ru/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия
-https://flussonic.salomtv.uz/Multilandiya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Мульт
-https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Кинозал",НТВ ПРАВО
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозал",НТВ СЕРИАЛ
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозал",НТВ ХИТ
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозал",Кино и сериалы HD (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-#EXTINF:-1 group-title="Кинозал",Кино 1 International
-http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
-#EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Кинозал",FX (EDTV)
-http://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Кинозал",FX Life (EDTV)
-http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
-#EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://iptvx.one/picons/khit.png" group-title="Кинозал",Хит (HD)
-http://185.23.80.28:8080/Xit/index.m3u8?token=test
